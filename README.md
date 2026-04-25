@@ -13,7 +13,7 @@ Project ini dibuat sebagai Mini Project mata kuliah **Augmented Reality** di Uni
 **Fitur:**
 - Deteksi marker real-time via webcam
 - Model 3D Toyota Fortuner dengan material & texture
-- Marker custom buatan sendiri (rating ⭐⭐⭐⭐)
+- Marker custom buatan sendiri (rating ⭐⭐⭐⭐⭐)
 
 ---
 
