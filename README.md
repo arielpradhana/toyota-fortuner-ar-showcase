@@ -80,7 +80,7 @@ Cetak gambar marker atau tampilkan di HP/layar lain, lalu arahkan kamera ke sana
 | | |
 |-|-|
 | Nama | FIQRI ARIEL PRADHANA |
-| NIM | [232410102085 |
+| NIM | 232410102085 |
 | Mata Kuliah | Augmented Reality A |
 | Dosen | Narandha Arya Ranggianto, S.Kom., M.Kom. |
 | Universitas | Universitas Jember — Fasilkom |
