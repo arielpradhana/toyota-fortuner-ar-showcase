@@ -63,7 +63,7 @@ Model 3D yang digunakan berformat `.gltf` / `.glb`, sehingga membutuhkan plugin 
 
 ## 🖼️ Marker
 
-File marker: `/marker/marker.jpg`
+File marker: `/marker/FortunerMarker.png`
 
 Cetak gambar marker atau tampilkan di HP/layar lain, lalu arahkan kamera ke sana saat demo.
 
