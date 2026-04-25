@@ -13,7 +13,7 @@ Project ini dibuat sebagai Mini Project mata kuliah **Augmented Reality** di Uni
 **Fitur:**
 - Deteksi marker real-time via webcam
 - Model 3D Toyota Fortuner dengan material & texture
-- Marker custom buatan sendiri (rating ⭐⭐⭐⭐)
+- Marker custom buatan sendiri (rating ⭐⭐⭐⭐⭐)
 
 ---
 
@@ -119,7 +119,7 @@ Cetak gambar marker atau tampilkan di HP/layar lain, lalu arahkan kamera ke sana
 |-|-|
 | Nama | FIQRI ARIEL PRADHANA |
 | NIM | 232410102085 |
-| Mata Kuliah | Augmented Reality (KTU1042) |
+| Mata Kuliah | Augmented Reality A |
 | Dosen | Narandha Arya Ranggianto, S.Kom., M.Kom. |
 | Universitas | Universitas Jember — Fasilkom |
 
